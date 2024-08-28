@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BazaarGagn</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="edit"><a href="#">Edit</a></string>
+    <string name="more"><a href="#">More..</a></string>
+    <string name="des">When the product is right, you don’t have to be a great Marketer.</string>
+</resources>
